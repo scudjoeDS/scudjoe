@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> 👋 Hi, I’m @scudjoeDS (Sherifa Cudjoe)<br>  👀 I’m interested in ML, Practical Data Science, and Deep Learning<br>  💞️ I’m looking to collaborate on ML, Practical Data Science, and Deep Learning Projects<br>   📫 How to reach me: sencudjoe@gmail.com<br><br><br>
+<br> 👋 Hi, I’m @scudjoeDS (Sherifa Cudjoe)<br>  👀 I’m interested in ML, Practical Data Science, and Deep Learning<br>  💞️ I’m looking to collaborate on ML, Time Series Models, and Deep Learning Projects<br>   📫 How to reach me: sencudjoe@gmail.com<br><br><br>
 
 
 # 💻 Tech Stack:
